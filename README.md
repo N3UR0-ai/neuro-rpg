@@ -27,8 +27,9 @@ Lucide React icons
 Medical emoji characters for immersive theming
 
 🚀 Getting Started
+bash
 
-> bashnpm install
+> npm install
 
 > npm start
 
