@@ -27,6 +27,9 @@ Lucide React icons
 Medical emoji characters for immersive theming
 
 🚀 Getting Started
+
 > bashnpm install
+
 > npm start
+
 Experience the life of a neurologist and help patients recover in this engaging medical RPG adventure!
